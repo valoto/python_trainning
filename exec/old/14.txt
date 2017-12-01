@@ -1,0 +1,4 @@
+igo;igor@igor.com
+igor;igor@igor.com
+oi;oi@oi.com.br
+fulano;fulano@bol.com.br

@@ -1,0 +1,5 @@
+CREATE TABLE alunos(
+    id serial,
+    nome VARCHAR(50),
+    email VARCHAR(50)
+);
